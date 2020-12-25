@@ -1,3 +1,6 @@
 .idea
 terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
+
+terraform/1_single_server/.terraform
+terraform/1_single_server/.terraform.lock.hcl
